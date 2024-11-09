@@ -1,4 +1,4 @@
-Z# Calculator Application with Database History
+Calculator Application with Database History
 
 This is a simple calculator application built with Java Swing and connected to a MySQL database. It allows users to perform basic calculations and stores a history of results in a MySQL table.
 
@@ -38,8 +38,14 @@ This is a simple calculator application built with Java Swing and connected to a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/bilalhus24/CalculatorApp.git
    ```
 2. Open the project in your preferred Java IDE
 3. Add the MYSQL Connector JAR to the project(as mentioned in requirement)
 4. Run Main.java to start the application
+
+## ScreenShots
+![Screenshot 2024-11-09 122703](https://github.com/user-attachments/assets/f73e76cd-4fa7-4659-96db-1ade9ca89a75)
+![Screenshot 2024-11-09 123003](https://github.com/user-attachments/assets/7c01f918-e03a-4b03-b2ad-3afff3d7d82b)
+![Screenshot 2024-11-09 123012](https://github.com/user-attachments/assets/0b4eec8b-05d5-44b4-a308-fb0b20bb44f0)
+
